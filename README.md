@@ -31,3 +31,4 @@ The project utilizes machine learning algorithms to analyze input data and make 
 * Adaboost
 * Gradient Boosting
 
+![Screenshot (448)](https://github.com/Ipman201/Crop_Recommendation_using_ML_streamlit/assets/76160030/8f5a66d0-7c24-4234-ae9d-7777f99a47bd)
