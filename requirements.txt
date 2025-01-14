@@ -1,4 +1,4 @@
-python ==3.10
+
 cython==0.29.36
 numpy==1.18.5
 streamlit==0.69.0
